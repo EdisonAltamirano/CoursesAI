@@ -37,7 +37,7 @@ Pictures of the project working.
 
 | Name                    | Email                                                               | Github                                                       | Role      |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
-| Edison Altamirano | [A00825234@tec.mx](mailto:A00825234@tec.mx) | [@AuroTB](https://github.com/EdisonAltamirano) | Software Developer 
+| Edison Altamirano | [A00825234@tec.mx](mailto:A00825234@tec.mx) | [@EdisonAltamirano](https://github.com/EdisonAltamirano) | Software Developer 
 
 
 
