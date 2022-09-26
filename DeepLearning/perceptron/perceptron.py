@@ -42,15 +42,15 @@ dataset20 = []
 dataset60 = []
 dataset110 = []
 
-# Formula Ax1 + Bx2 + c (+ ruido)
+# Formula Ax1 + Bx2 + bias (+ ruido)
 def formula():
     a = 20
     b = 10
-    c = 5
+    bias = 5
     x1 = random()
     x2 = random()
     ruido = random()
-    dato = a*x1 + b*x2 + c + ruido
+    dato = a*x1 + b*x2 + bias + ruido
     return [x1,x2,dato]
 
 def createDataSet(num, dataset):
@@ -76,5 +76,5 @@ res60 = perceptron60.algoritmoTrain(dataset60)
 res110 = perceptron110.algoritmoTrain(dataset110)
 
 print(res20)
-#print(res60)
-#print(res110)
+print(res60)
+print(res110)
